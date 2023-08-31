@@ -1,1 +1,7 @@
-# test_repo
+# Test repo
+
+## Howto
+
+```js
+const test = require('test');
+```

@@ -1,0 +1,1 @@
+console.log('!@# admin.js:():1 ', 2);
